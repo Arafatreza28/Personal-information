@@ -1,0 +1,7 @@
+C:\Users\arafat\source\repos\Personal_information\Personal_information\bin\Debug\Personal_information.exe.config
+C:\Users\arafat\source\repos\Personal_information\Personal_information\bin\Debug\Personal_information.exe
+C:\Users\arafat\source\repos\Personal_information\Personal_information\bin\Debug\Personal_information.pdb
+C:\Users\arafat\source\repos\Personal_information\Personal_information\obj\Debug\Personal_information.csprojAssemblyReference.cache
+C:\Users\arafat\source\repos\Personal_information\Personal_information\obj\Debug\Personal_information.csproj.CoreCompileInputs.cache
+C:\Users\arafat\source\repos\Personal_information\Personal_information\obj\Debug\Personal_information.exe
+C:\Users\arafat\source\repos\Personal_information\Personal_information\obj\Debug\Personal_information.pdb
